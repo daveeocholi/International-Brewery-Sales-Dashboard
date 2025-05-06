@@ -37,6 +37,9 @@ This project provides a comprehensive analysis of beer and malt beverage consump
 **Top Year**: 2017
 **Profit and Consumption**: Varied by month, brand, and territory—crucial for decision-making.
 
+## Dashboard
+![Sales Dashboard](https://github.com/user-attachments/assets/ea337ee8-e134-4d71-b41e-675052b62730)
+
 ## Use Case
 This dashboard aids:
 - Territory Managers in strategic decision-making.
