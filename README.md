@@ -31,11 +31,11 @@ This project provides a comprehensive analysis of beer and malt beverage consump
 4. **Dashboard Design**: Applied professional layout, color codes for territories, and dynamic titles.
 
 ## Key Insights
-**Total Revenue**: $105,587,420.00
-**Top Country by Revenue**: Senegal ($21,485,190.00)
-**Top Territory**: Francophone
-**Top Year**: 2017
-**Profit and Consumption**: Varied by month, brand, and territory—crucial for decision-making.
+1. **Total Revenue**: $105,587,420.00
+2. **Top Country by Revenue**: Senegal ($21,485,190.00)
+3. **Top Territory**: Francophone
+4. **Top Year**: 2017
+5. **Profit and Consumption**: Varied by month, brand, and territory—crucial for decision-making.
 
 ## Dashboard
 ![Sales Dashboard 4 (FINAL)](https://github.com/user-attachments/assets/47867bf4-cc4f-4e4c-a4c6-001713a8c598)
