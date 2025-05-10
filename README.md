@@ -38,7 +38,7 @@ This project provides a comprehensive analysis of beer and malt beverage consump
 **Profit and Consumption**: Varied by month, brand, and territory—crucial for decision-making.
 
 ## Dashboard
-![Sales Dashboard](https://github.com/user-attachments/assets/ea337ee8-e134-4d71-b41e-675052b62730)
+![Sales Dashboard 4 (FINAL)](https://github.com/user-attachments/assets/47867bf4-cc4f-4e4c-a4c6-001713a8c598)
 
 ## Use Case
 This dashboard aids:
